@@ -1,0 +1,24 @@
+{
+  "name": "MF LFC",
+  "short_name": "MF LFC",
+  "description": "Liverpool FC & European Football Tracker",
+  "start_url": "/mf-lfc/",
+  "display": "standalone",
+  "background_color": "#0a0e1a",
+  "theme_color": "#C8102E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
