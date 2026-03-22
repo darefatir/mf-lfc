@@ -437,13 +437,13 @@ export const LIVERPOOL_SQUAD = [
     ucl: { apps: 8, goals: 0, assists: 1, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 660 },
   }},
   { number: 7, name: "Florian Wirtz", position: "AM/CM", nationality: "Germany", flag: "🇩🇪", dob: "2003-05-03", age: 22, contract: "2030-06-30", marketValue: "€130M", injury: null, stats: {
-    all: { apps: 26, goals: 4, assists: 2, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 2100 },
-    epl: { apps: 18, goals: 1, assists: 0, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 1440 },
+    all: { apps: 26, goals: 4, assists: 4, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 2100 },
+    epl: { apps: 18, goals: 1, assists: 2, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 1440 },
     ucl: { apps: 8, goals: 3, assists: 2, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 660 },
   }},
   { number: 8, name: "Dominik Szoboszlai", position: "CM/AM", nationality: "Hungary", flag: "🇭🇺", dob: "2000-10-25", age: 25, contract: "2029-06-30", marketValue: "€55M", injury: null, stats: {
-    all: { apps: 27, goals: 4, assists: 3, cleanSheets: null, yellowCards: 6, redCards: 1, minutesPlayed: 2160 },
-    epl: { apps: 19, goals: 3, assists: 0, cleanSheets: null, yellowCards: 5, redCards: 1, minutesPlayed: 1500 },
+    all: { apps: 27, goals: 4, assists: 5, cleanSheets: null, yellowCards: 6, redCards: 1, minutesPlayed: 2160 },
+    epl: { apps: 19, goals: 3, assists: 2, cleanSheets: null, yellowCards: 5, redCards: 1, minutesPlayed: 1500 },
     ucl: { apps: 8, goals: 1, assists: 3, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 660 },
   }},
   { number: 17, name: "Curtis Jones", position: "CM", nationality: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿", dob: "2001-01-30", age: 25, contract: "2028-06-30", marketValue: "€25M", injury: null, stats: {
@@ -463,18 +463,18 @@ export const LIVERPOOL_SQUAD = [
   }},
   // FORWARDS
   { number: 11, name: "Mohamed Salah", position: "RW", nationality: "Egypt", flag: "🇪🇬", dob: "1992-06-15", age: 33, contract: "2027-06-30", marketValue: "€40M", injury: null, stats: {
-    all: { apps: 21, goals: 5, assists: 6, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 1750 },
-    epl: { apps: 15, goals: 3, assists: 4, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 1230 },
+    all: { apps: 25, goals: 10, assists: 11, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 2230 },
+    epl: { apps: 19, goals: 8, assists: 9, cleanSheets: null, yellowCards: 1, redCards: 0, minutesPlayed: 1710 },
     ucl: { apps: 6, goals: 2, assists: 2, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 520 },
   }},
   { number: 22, name: "Hugo Ekitike", position: "CF", nationality: "France", flag: "🇫🇷", dob: "2002-06-20", age: 23, contract: "2030-06-30", marketValue: "€55M", injury: null, stats: {
-    all: { apps: 26, goals: 11, assists: 4, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 2100 },
-    epl: { apps: 18, goals: 6, assists: 2, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 1440 },
+    all: { apps: 34, goals: 16, assists: 6, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 2810 },
+    epl: { apps: 26, goals: 11, assists: 4, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 2150 },
     ucl: { apps: 8, goals: 5, assists: 2, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 660 },
   }},
   { number: 18, name: "Cody Gakpo", position: "LW/CF", nationality: "Netherlands", flag: "🇳🇱", dob: "1999-05-07", age: 26, contract: "2028-06-30", marketValue: "€55M", injury: null, stats: {
-    all: { apps: 27, goals: 6, assists: 3, cleanSheets: null, yellowCards: 2, redCards: 0, minutesPlayed: 2160 },
-    epl: { apps: 19, goals: 2, assists: 2, cleanSheets: null, yellowCards: 2, redCards: 0, minutesPlayed: 1480 },
+    all: { apps: 33, goals: 14, assists: 6, cleanSheets: null, yellowCards: 2, redCards: 0, minutesPlayed: 2780 },
+    epl: { apps: 25, goals: 10, assists: 5, cleanSheets: null, yellowCards: 2, redCards: 0, minutesPlayed: 2100 },
     ucl: { apps: 8, goals: 4, assists: 1, cleanSheets: null, yellowCards: 0, redCards: 0, minutesPlayed: 680 },
   }},
   { number: 9, name: "Alexander Isak", position: "CF", nationality: "Sweden", flag: "🇸🇪", dob: "1999-09-21", age: 26, contract: "2031-06-30", marketValue: "€90M", injury: { type: "Knee (minor)", since: "2026-03-10", expectedReturn: "2026-04-05" }, stats: {
